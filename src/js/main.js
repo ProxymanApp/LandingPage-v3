@@ -10,7 +10,7 @@
     const sr = window.sr = ScrollReveal()
 
     sr.reveal('.hero-shapes', {
-      duration: 1000,
+      duration: 0,
       distance: '40px',
       easing: 'cubic-bezier(0.5, -0.01, 0, 1.005)',
       origin: 'right'
@@ -25,10 +25,10 @@
     })
 
     sr.reveal('.hero-media', {
-      delay: 200,
-      duration: 1000,
+      delay: 0,
+      duration: 0,
       rotate: {
-        y: 50
+        y: 0
       },
       easing: 'cubic-bezier(0.5, -0.01, 0, 1.005)'
     })

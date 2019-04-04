@@ -74,17 +74,19 @@
 		img,
 		svg {
 			max-width: none;
-			width: 528px;
+			width: 1024px;
+			margin-top: -40px;
+			margin-left: -70px;
 		}
 	}
 
 	.hero-shapes {
-		top: -168px;
+		top: -130px;
 		right: auto;
 		left: 85px;
 
 		svg {
-			width: 724px;
+			width: 800px;
 		}
 	}
 }
