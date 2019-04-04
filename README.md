@@ -1,12 +1,19 @@
-# Sienna
+# Proxyman
 
-A landing page template.
+<img src="https://raw.githubusercontent.com/ProxymanApp/Proxyman/master/screenshots/icon-left-font.png" alt="Proxyman screenshot" width="50%" height="auto"/>
 
-* [Getting started](#getting-started)
+#### A modern and intuitive HTTP Debugging Proxy app 👨‍💻 • 🌎 https://proxyman.app
 
-## Getting started
-* First, ensure that node.js & npm are both installed. If not, choose your OS and installation method from [this page](https://nodejs.org/en/download/package-manager/) and follow the instructions.
-* Next, use your command line to enter your project directory.
-* This template comes with a ready-to-use package file called `package-sample.json`. You just need to rename it to `package.json`, then run `npm install` to install all of the dependencies into your project.
+<img src="https://raw.githubusercontent.com/ProxymanApp/LandingPage-v3/master/resource/screenshot.png" alt="Proxyman screenshot" width="100%" height="auto"/>
 
-You're ready to go! Run any task by typing `npm run task` (where "task" is the name of the task in the `"scripts"` object). The most useful task for rapid development is `watch`. It will start a new server, open up a browser and watch for any SCSS or JS changes in the `src` directory; once it compiles those changes, the browser will automatically inject the changed file(s)!
+## What's it?
+Proxyman is a high-performance macOS app, which enables developers to view HTTP/HTTPS requests from apps and domains.
+
+## Installation
+Just install and 💥
+```
+$ npm install
+```
+
+## Credit
+Sienna Template - Pasquale Vitiello <pasqualevitiello@gmail.com>

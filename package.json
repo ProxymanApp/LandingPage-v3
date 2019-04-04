@@ -1,7 +1,7 @@
 {
-  "name": "sienna",
+  "name": "proxyman",
   "version": "1.0.0",
-  "description": "Sienna Template",
+  "description": "Proxyman is a high-performance macOS app, which enables developers to view HTTP/HTTPS requests from apps and domains.",
   "author": "Pasquale Vitiello <pasqualevitiello@gmail.com>",
   "license": "GPLv3",
   "repository": {
