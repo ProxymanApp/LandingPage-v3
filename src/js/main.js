@@ -34,8 +34,8 @@
     })
 
     sr.reveal('.feature-extended-image', {
-      duration: 600,
-      scale: 0.9,
+      duration: 0,
+      scale: 1,
       easing: 'cubic-bezier(0.5, -0.01, 0, 1.005)',
       viewFactor: 0.5
     })

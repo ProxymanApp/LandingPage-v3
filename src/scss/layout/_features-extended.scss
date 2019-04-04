@@ -38,7 +38,7 @@
     .feature-extended {
         display: flex;
         align-items: center;
-        padding-top: 72px;
+        padding-top: 30px;
 
         &:nth-child(even) {
 
@@ -51,12 +51,12 @@
     .feature-extended-image,
     .feature-extended-body {
         width: auto;
-        padding: 0 24px;
     }
 
     .feature-extended-image {
         margin-bottom: 0;
 
+        img,
         svg {
             max-width: none;
             width: 320px;
@@ -88,16 +88,18 @@
     .feature-extended {
     }
 
-    .feature-extended-image,
-    .feature-extended-body {
-        padding: 0 40px;
-    }
-
     .feature-extended-image {
 
-		img,
-        svg {
-            width: 480px;
+        img.even {
+            width: 650px;
+            margin-right: -70px;
+            margin-left: 20px;
+        }
+
+        img.odd {
+            width: 650px;
+            margin-left: -70px;
+            margin-right: 20px;
         }
     }
 }
