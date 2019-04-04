@@ -33,18 +33,18 @@ $color: (
 // Typography ---------------------------------
 // --------------------------------------------
 $font__family: (
-	base: '"Hind Vadodara", sans-serif', // font-family(base)
-	heading: 'Frank Ruhl Libre, serif', // font-family(heading)
+	base: '"Open Sans", sans-serif;', // font-family(base)
+	heading: '"Open Sans", sans-serif;', // font-family(heading)
 	code: 'Monaco, Consolas, "Andale Mono", "DejaVu Sans Mono", monospace', // font-family(code)
 	pre: '"Courier 10 Pitch", Courier, monospace' // font-family(pre)
 );
 
 $font__sizes: (
-	alpha:   ( 48px, 58px, -0.1px ), // font-size, line-height, kerning (use '0' if don't want to output any kerning)
-	beta:    ( 40px, 50px, -0.1px ),
+	alpha:   ( 46px, 58px, -0.1px ), // font-size, line-height, kerning (use '0' if don't want to output any kerning)
+	beta:    ( 38px, 50px, -0.1px ),
 	gamma:   ( 32px, 42px, -0.1px ),
 	delta:   ( 24px, 34px, -0.1px ),
-	epsilon: ( 20px, 30px, -0.1px ),
+	epsilon: ( 20px, 32px, -0.1px ),
 	zeta:    ( 18px, 27px, -0.1px ),
 	eta:     ( 16px, 24px, -0.1px ),
 	theta:   ( 14px, 22px, 0px )
