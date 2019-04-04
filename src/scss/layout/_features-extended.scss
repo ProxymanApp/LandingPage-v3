@@ -24,6 +24,10 @@
     text-align: center;
 }
 
+.features-extended-header {
+    padding-bottom: 24px;
+}
+
 @include media( '>medium' ) {
 
     .features-extended {
